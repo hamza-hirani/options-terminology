@@ -1,0 +1,6 @@
+Delta: The movement of the price of an option for every $1 change in the price of the underlying (positive for calls, negative for puts).
+Gamma: The rate of change for an option's delta (measure of stability of an option's probability).
+Theta: The daily decay of an option's extrinsic value, all else equal (Time is on your side for short positions & works against you for long positions).
+Vega: The change in the price of an option given a 1% change in implied volatility (Positive for long options, negative for short options).
+Rho: The change in the price of an option given a 1% change in risk-free interest rates.
+Beta: Indiction of how our entire portfolio will change based on market movement (typically weighted with $SPY).
