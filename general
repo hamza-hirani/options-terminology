@@ -1,0 +1,5 @@
+Implied Volatility: One standard deviation range of potential movement from the current price within a year.
+IV Rank: A metric which compares IV to it's previous levels in a given time frame.
+Liquidity: How easily a trader can buy or sell an asset (depends on the bid-ask spread).
+Extrinsic value: Portion of an option's price dependent on factors other than the underlying price (time and IV).
+Intrinsic value: Difference between underlying price and the option's strike price. 
