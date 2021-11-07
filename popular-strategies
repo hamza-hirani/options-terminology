@@ -1,0 +1,7 @@
+Long Call/Put
+Short Call/Put
+Vertical Call/Put spreads
+Covered Call (Own 100 shares and sell a call)
+Strangle (Sell OTM call and OTM put)
+Straddle (Sell ATM call and ATM put)
+Iron Condor (Sell OTM call spread and OTM put spread)
